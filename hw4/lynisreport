@@ -1,0 +1,20 @@
+Warnings (4):
+  ----------------------------
+  ! Version of Lynis is very old and should be updated [LYNIS] 
+      https://cisofy.com/controls/LYNIS/
+
+  ! No password set for single mode [AUTH-9308] 
+      https://cisofy.com/controls/AUTH-9308/
+
+  ! Found one or more vulnerable packages. [PKGS-7392] 
+      https://cisofy.com/controls/PKGS-7392/
+
+  ! Found some information disclosure in SMTP banner (OS or software name) [MAIL-8818] 
+      https://cisofy.com/controls/MAIL-8818/
+
+
+================================================================================
+  Notice: Lynis update available
+  Current version : 262    Latest version : 301
+================================================================================
+
